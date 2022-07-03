@@ -19,8 +19,8 @@ global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi webs
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/AinulBotz-06-26-2' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/AinulBotz-06-26-2' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'AinulBotz'
@@ -29,7 +29,7 @@ global.wm2 = '                     「 AinulBotz⁩ 」'
 global.wm3 = '⫹⫺ AinulBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/AinulBotz-06-26-2'
+global.media = 'https://telegra.ph/file/20b24c609e796b243d7b7.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
